@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/schemas/index.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,oDAAkC;AAClC,mDAAiC","sourcesContent":["export * from './Customer.schema';\r\nexport * from './Service.schema';"]}

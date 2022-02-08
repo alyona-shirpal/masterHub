@@ -1,0 +1,1 @@
+{"version":3,"file":"service.interface.js","sourceRoot":"","sources":["../../../src/interfaces/service/service.interface.ts"],"names":[],"mappings":"","sourcesContent":["import { IServiceType } from './service-type.interface';\r\n\r\nexport interface IService {\r\n   title: string,\r\n   type: {\r\n      type: [IServiceType],\r\n      default: []\r\n   }\r\n\r\n}"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sourceRoot":"","sources":["../../src/interfaces/index.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,6CAA2B;AAC3B,2CAAyB;AACzB,4CAA0B","sourcesContent":["export * from './customer';\r\nexport * from './master';\r\nexport * from './service';"]}

@@ -1,0 +1,1 @@
+{"version":3,"file":"service-type.interface.js","sourceRoot":"","sources":["../../../src/interfaces/service/service-type.interface.ts"],"names":[],"mappings":"","sourcesContent":["import mongoose from 'mongoose';\r\n\r\nexport interface IServiceType {\r\n    _id: string | mongoose.Types.ObjectId\r\n    service_id: string | mongoose.Types.ObjectId\r\n    title: string\r\n}"]}
